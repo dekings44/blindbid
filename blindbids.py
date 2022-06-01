@@ -1,6 +1,6 @@
+from art import logo
 
-
-
+print(logo)
 bids = {}
 
 bidding_completed = False
